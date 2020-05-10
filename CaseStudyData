@@ -11,7 +11,7 @@
     "BRAND": "Adidas"
  },
  {
-    "ID": "Adidas Jacket",
+    "ID": "UA Jacket",
     "COST": "60",
     "MSRP": "60",
     "DESCRIPTION": "A stylish jacket great for any occasion.  Varies in sizes and comes in both Mens and Womens",
@@ -22,7 +22,7 @@
     "BRAND": "Under Armor"
  },
  {
-    "ID": "Adidas Jacket",
+    "ID": "Nike Jacket",
     "COST": "60",
     "MSRP": "60",
     "DESCRIPTION": "A stylish jacket great for any occasion.  Varies in sizes and comes in both Mens and Womens",
@@ -33,23 +33,23 @@
     "BRAND": "Nike"
  },
  {
-    "ID": "Adidas Jacket",
+    "ID": "Roots Sweater",
     "COST": "60",
     "MSRP": "60",
-    "DESCRIPTION": "A stylish jacket great for any occasion.  Varies in sizes and comes in both Mens and Womens",
-    "GRAPH": "JACKET",
-    "NAME": "JACKET",
+    "DESCRIPTION": "A stylish sweater great for any occasion.  Varies in sizes and comes in both Mens and Womens",
+    "GRAPH": "SWEATER",
+    "NAME": "SWEATER",
     "QTYONBACK": "10",
     "QTYONHAND": "10",
     "BRAND": "Roots"
  },
  {
-    "ID": "Adidas Jacket",
+    "ID": "AE Sweater",
     "COST": "60",
     "MSRP": "60",
-    "DESCRIPTION": "A stylish jacket great for any occasion.  Varies in sizes and comes in both Mens and Womens",
-    "GRAPH": "JACKET",
-    "NAME": "JACKET",
+    "DESCRIPTION": "A stylish sweater great for any occasion.  Varies in sizes and comes in both Mens and Womens",
+    "GRAPH": "SWEATER",
+    "NAME": "SWEATER",
     "QTYONBACK": "10",
     "QTYONHAND": "10",
     "BRAND": "American Eagle"
