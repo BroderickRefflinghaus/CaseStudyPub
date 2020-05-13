@@ -11,12 +11,34 @@
     "BRAND": "Adidas"
  },
  {
+    "ID": "Adidas Pants",
+    "COST": "60",
+    "MSRP": "60",
+    "DESCRIPTION": "A stylish jacket great for any occasion.  Varies in sizes and comes in both Mens and Womens",
+    "GRAPH": "JACKET",
+    "NAME": "PANTS",
+    "QTYONBACK": "10",
+    "QTYONHAND": "10",
+    "BRAND": "Adidas"
+ },
+ {
     "ID": "UA Jacket",
     "COST": "60",
     "MSRP": "60",
     "DESCRIPTION": "A stylish jacket great for any occasion.  Varies in sizes and comes in both Mens and Womens",
     "GRAPH": "JACKET",
     "NAME": "JACKET",
+    "QTYONBACK": "10",
+    "QTYONHAND": "10",
+    "BRAND": "Under Armor"
+ },
+ {
+    "ID": "UA Pants",
+    "COST": "60",
+    "MSRP": "60",
+    "DESCRIPTION": "A stylish jacket great for any occasion.  Varies in sizes and comes in both Mens and Womens",
+    "GRAPH": "JACKET",
+    "NAME": "PANTS",
     "QTYONBACK": "10",
     "QTYONHAND": "10",
     "BRAND": "Under Armor"
@@ -33,12 +55,34 @@
     "BRAND": "Nike"
  },
  {
+    "ID": "Nike Pants",
+    "COST": "60",
+    "MSRP": "60",
+    "DESCRIPTION": "A stylish jacket great for any occasion.  Varies in sizes and comes in both Mens and Womens",
+    "GRAPH": "JACKET",
+    "NAME": "PANTS",
+    "QTYONBACK": "10",
+    "QTYONHAND": "10",
+    "BRAND": "Nike"
+ },
+ {
     "ID": "Roots Sweater",
     "COST": "60",
     "MSRP": "60",
     "DESCRIPTION": "A stylish sweater great for any occasion.  Varies in sizes and comes in both Mens and Womens",
     "GRAPH": "SWEATER",
     "NAME": "SWEATER",
+    "QTYONBACK": "10",
+    "QTYONHAND": "10",
+    "BRAND": "Roots"
+ },
+ {
+    "ID": "Roots Pants",
+    "COST": "60",
+    "MSRP": "60",
+    "DESCRIPTION": "A stylish jacket great for any occasion.  Varies in sizes and comes in both Mens and Womens",
+    "GRAPH": "JACKET",
+    "NAME": "PANTS",
     "QTYONBACK": "10",
     "QTYONHAND": "10",
     "BRAND": "Roots"
@@ -53,5 +97,16 @@
     "QTYONBACK": "10",
     "QTYONHAND": "10",
     "BRAND": "American Eagle"
+ },
+ {
+    "ID": "AE Pants",
+    "COST": "60",
+    "MSRP": "60",
+    "DESCRIPTION": "A stylish jacket great for any occasion.  Varies in sizes and comes in both Mens and Womens",
+    "GRAPH": "JACKET",
+    "NAME": "PANTS",
+    "QTYONBACK": "10",
+    "QTYONHAND": "10",
+    "BRAND": "Pants"
  }
  ]
