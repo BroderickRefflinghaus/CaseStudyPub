@@ -21,39 +21,6 @@
     "QTYONHAND": "10",
     "BRAND": "Adidas"
  },
-  {
-    "ID": "Adidas Jacket2",
-    "COST": "60",
-    "MSRP": "60",
-    "DESCRIPTION": "A stylish jacket great for any occasion.  Varies in sizes and comes in both Mens and Womens",
-    "GRAPH": "TEST",
-    "NAME": "JACKET2",
-    "QTYONBACK": "10",
-    "QTYONHAND": "10",
-    "BRAND": "Adidas"
- },
- {
-    "ID": "Adidas Pants2",
-    "COST": "60",
-    "MSRP": "60",
-    "DESCRIPTION": "A stylish pant great for any occasion.  Varies in sizes and comes in both Mens and Womens",
-    "GRAPH": "TEST",
-    "NAME": "PANTS2",
-    "QTYONBACK": "10",
-    "QTYONHAND": "10",
-    "BRAND": "Adidas"
- },
-  {
-    "ID": "Adidas Jacket3",
-    "COST": "60",
-    "MSRP": "60",
-    "DESCRIPTION": "A stylish jacket great for any occasion.  Varies in sizes and comes in both Mens and Womens",
-    "GRAPH": "TEST",
-    "NAME": "JACKET3",
-    "QTYONBACK": "10",
-    "QTYONHAND": "10",
-    "BRAND": "Adidas"
- },
  {
     "ID": "UA Jacket",
     "COST": "60",
